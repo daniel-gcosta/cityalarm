@@ -1,13 +1,13 @@
 # cityalarm
-Implementation of the CityAlarm Emergency Alerting system (and the extension for visual sensing), which were developed in 2019/2020 by Prof. Daniel G. Costa.
+Implementation of the CityAlarm Emergency Alerting system (and an extension for visual sensing), which were developed in 2019/2020 by Prof. Daniel G. Costa.
 
-The scientific papers associated to this repository are: On the Use of Cameras for the Detection of Critical Events in Sensors-Based Emergency Alerting Systems (https://doi.org/10.3390/jsan9040046), and A Distributed Multi-Tier Emergency Alerting System Exploiting Sensors-Based Event Detection to Support Smart City Applications (https://doi.org/10.3390/s20010170).
+The scientific papers associated to this repository are: A Distributed Multi-Tier Emergency Alerting System Exploiting Sensors-Based Event Detection to Support Smart City Applications (https://doi.org/10.3390/s20010170), and On the Use of Cameras for the Detection of Critical Events in Sensors-Based Emergency Alerting Systems (https://doi.org/10.3390/jsan9040046).
 
 The CityAlarm implementation is divided in three elements:
 
-Events Dectection Unit (EDU), Emergencies Processing Unit (EPU) and Emergency Alarms Client (EAC)
+Events Dectection Unit (EDU), Emergencies Processing Unit (EPU), and Emergency Alarms Client (EAC).
 
-All codes are written in Python3, using some additional libraries
+All codes are written in Python3, using some additional libraries.
 
 *******************************************************************
 
@@ -36,3 +36,9 @@ pip3 install paho-mqtt
 If the EACMap app is used, the folium library has to be installed through the following command:
 
 pip3 install folium
+
+*******************************************************************
+
+Some images of this project:
+
+
