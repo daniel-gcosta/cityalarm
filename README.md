@@ -36,9 +36,3 @@ pip3 install paho-mqtt
 If the EACMap app is used, the folium library has to be installed through the following command:
 
 pip3 install folium
-
-*******************************************************************
-
-Some images of this project:
-
-
