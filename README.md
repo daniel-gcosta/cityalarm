@@ -1,5 +1,5 @@
 # cityalarm
-Implementation of the CityAlarm Emergency Alerting system (and an extension for visual sensing), which were developed in 2019/2020 by Prof. Daniel G. Costa.
+Implementation of the CityAlarm Emergency Alerting system (and an extension for visual sensing), which was developed in 2019/2020 by Prof. Daniel G. Costa.
 
 The scientific papers associated to this repository are: A Distributed Multi-Tier Emergency Alerting System Exploiting Sensors-Based Event Detection to Support Smart City Applications (https://doi.org/10.3390/s20010170), and On the Use of Cameras for the Detection of Critical Events in Sensors-Based Emergency Alerting Systems (https://doi.org/10.3390/jsan9040046).
 
