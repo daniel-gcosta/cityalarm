@@ -17,7 +17,9 @@ The GrovePi+ has to be installed and enabled, as specified by the manufacturer. 
 
 Before using the EDU, one additional library has also to be installed through the following command:
 
+```
 pip3 install numpy
+```
 
 As a second remark about the EDU and the GrovePi+, the GPS module operates through the serial port of Raspberry and thus the Bluetooth module needs to be deactivated in some versions
 
