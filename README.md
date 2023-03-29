@@ -27,14 +27,20 @@ As a second remark about the EDU and the GrovePi+, the GPS module operates throu
 
 For the EPU, the haversine lib has to be installed:
 
+```
 pip3 install haversine
+```
 
 For the EPU and the EAC, the paho-mqtt library has also to be installed, using the follwing command:
 
+```
 pip3 install paho-mqtt
+```
 
 *******************************************************************
 
 If the EACMap app is used, the folium library has to be installed through the following command:
 
+```
 pip3 install folium
+```
